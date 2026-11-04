@@ -276,7 +276,7 @@ export default function HomeScreen() {
       ? "Fallback mode: retrieval-only RAG (no WebGPU on this device)"
       : "Loading WebLLM / probing environment...";
 
-  const REPO_URL = "https://github.com/europanite/client_side_rag";
+  const REPO_URL = "https://github.com/europanite/client-side-rag";
 
   return (
     <View style={{ flex: 1, padding: 16, gap: 8 }}>

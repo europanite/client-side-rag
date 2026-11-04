@@ -1,6 +1,6 @@
-title: "client_side_rag"
+title: "client-side-rag"
 description: "Client Side RAG Playground."
-baseurl: "/client_side_rag"
+baseurl: "/client-side-rag"
 url: "https://europanite.github.io"
 theme: minima
 markdown: kramdown
